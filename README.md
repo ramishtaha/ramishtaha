@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to get some AWS Certifications.
 - 🤔 I’m looking for help with Proramming.
 - 💬 Ask me about Networking
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Github Stats
+<img src = "https://github-readme-stats.vercel.app/api?username=ramishtaha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadahmadhere" alt="shivampandey" /></p>
